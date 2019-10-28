@@ -76,5 +76,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 This is a responsive web application built by JS and React.
 
-![Web Screenshot](/screenshot.png)
+![Web Screenshot](/hcardss.png)
 Format: ![Alt Text](url)
