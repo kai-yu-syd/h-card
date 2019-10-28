@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Before Build This Project
+
+This project uses ESLINT to keep the syntax consistent. In order to build this project you need to run:
+
+### `npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -67,3 +73,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # h-card
+
+This is a responsive web application built by JS and React.
+
+![Web Screenshot](/screenshot.png)
+Format: ![Alt Text](url)
